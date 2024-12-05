@@ -1,8 +1,8 @@
-#ABOUT US
+# ABOUT US
 
 Student in HCMC University Of Industry and Trade
 
-#HOW TO PLAY THIS GAME
+# HOW TO PLAY THIS GAME
 
 1. Open dist folder
 2. Run file Pipline.exe
