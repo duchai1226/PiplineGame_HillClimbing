@@ -59,7 +59,6 @@ class PipeGame:
 
     def setup_game(self):
         """Set up the game by initializing the grid, obstacles, and start/end points."""
-        self.grid = [[0 for _ in range(GRID_SIZE)] for _ in range(GRID_SIZE)]
         self.obstacles = set()
         self.start = None
         self.end = None
